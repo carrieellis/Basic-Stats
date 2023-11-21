@@ -12,6 +12,3 @@ Basic-Stats Package for Python
 
 #import numpy as np
 from .Ellis_BasicStats2 import *
-
-
-__all__ = ['sat_vp']
